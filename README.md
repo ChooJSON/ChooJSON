@@ -5,11 +5,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=choojson&theme=default&show_icons=true" />
 
 ### About me
-- 🏫 &nbsp; I'm studying for a Msc degree in NUS.
+
+- 🏫 &nbsp; I'm an MSc student in NUS.
 - ✅ &nbsp; Pronouns: She/Her/Hers
 - 🌱 &nbsp; I’m currently studying frontend developing.
-- 🎨 &nbsp; I'm interested in beautiful designs.
-- 🌮 &nbsp; I prefer KFC than McDonald, so V me ¥50 on Thursday!
+- 🎨 &nbsp; I'm interested in design.
+- 🌮 &nbsp; I prefer KFC than McDonald, so please V me ¥50 on Thursday!
 
 
 <!-- 
