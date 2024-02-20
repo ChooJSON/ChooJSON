@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🏫 &nbsp; I'm an MSc student in NUS.
+- 🏫 &nbsp; I graduated from SEU and NUS.
 - ✅ &nbsp; Pronouns: She/Her/Hers
 - 🌱 &nbsp; I’m currently studying frontend developing.
 - 🎨 &nbsp; I'm interested in design.
